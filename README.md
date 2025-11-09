@@ -8,10 +8,15 @@ Sneak peaks as well as more regular development updates can be found in this dis
 
 # Recommended Mods:
   -[Questin's Big Blue](https://github.com/Quest-in/Big-Blue)
+
   -[KCC Extended](https://github.com/kyleander/KCCExtended)
+
   -TUFX
+
   -Kerbal Konstructs
+
   -Hangar Extender 
+
   
 <img width="1920" height="1920" alt="glennpfp" src="https://github.com/user-attachments/assets/7e2632a9-1dae-4fe1-a5e2-6fcf0dea826d" />
 <img width="2560" height="1440" alt="Kerbal Space Program Screenshot 2025 10 23 - 23 46 57 59" src="https://github.com/user-attachments/assets/0f5c1061-7a1a-466b-acc0-c61bed403099" />
