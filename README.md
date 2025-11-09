@@ -1,7 +1,7 @@
 # F3's-GSE
 F3's GSE is a mod aimed at bringing real life launch systems for Blue Origin, Spacex, and more into Kerbal Space Program. These parts are not at a perfect 1:1 scale but aimed at being as realistic as possible. 
 
-Sneak peaks as well as more regular development updates can be found in this discord server: https://discord.gg/4zr9B84TxF and feel free to dm me with any bug reports or suggestions @f346 on discord.
+Sneak peaks and development updates can be found in this discord server: https://discord.gg/4zr9B84TxF and feel free to dm me with any bug reports or suggestions @f346 on discord.
 
 # Dependencies:
   -Module Manager
