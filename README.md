@@ -1,29 +1,35 @@
-# F3's-GSE
-F3's GSE is a mod aimed at bringing real life launch systems for Blue Origin, Spacex, and more into Kerbal Space Program. These parts are not at a perfect 1:1 scale but aimed at being as realistic as possible. 
+<img width="2560" height="1440" alt="Kerbal Space Program Screenshot 2026 08 04 - 01 02 23 43" src="https://github.com/user-attachments/assets/39aa090d-9f75-4380-bb0c-f022097678be" />
 
-Sneak peaks and development updates can be found in this discord server: https://discord.gg/4zr9B84TxF and feel free to dm me with any bug reports or suggestions @f346 on discord.
+# F3's GSE
+F3's GSE Brings Starship Pad B To Kerbal Space Program.
+
+Sneak Peaks and Development Updates Can Be Found In This Discord Server: https://discord.gg/4zr9B84TxF and Feel Free To DM Me With Any Bug Reports @f346 On Discord.
+
+The Functions of The Chopsticks and SQD Would Not Be Possible Without All of The Incredible Work By; **Sam**, **Sofie**, **Anomalia**, and **Joep** On The **Starship Launch Expansion** Project Which You Can Find [Here](https://github.com/SAMCG14/StarshipLaunchExpansion.git)
+
+Additionally This Mod Currently Includes An Early Version of The Pad B Terrain From **Starship Ground Extensions** By; **Joep** and **BlackDinoShadow**. An Older Version of The Mod and Instructions On How to Place The Pad Can be Found [Here](https://github.com/Joepkock02/Starship-Ground-Extensions.git) and This Is Also Where Updates For The Pad Terrain Can Be Found In The Future.
+
+This Mod Is Designed To Be Compatible With The **Starship Expansion Project** Block 3 Vehicle Which Can Be Found [Here](https://github.com/Kari1407/Starship-Expansion-Project/releases/tag/v3.2.2)
 
 # Dependencies:
-  -Module Manager
+   -Module Manager
   
-  -B9PartSwitch
+   -B9PartSwitch
+   
+   -Kerbal Konstructs
+
+   -Resurfaced(This Is **REQUIRED** For Textures To Work) 
+
+   -Shabby
+
+   -Textures Unlimited(**Must Be** Up To Date Or Some Textures Will Be See Through) 
+  
 
 # Recommended Mods:
-  -[Questin's Big Blue](https://github.com/Quest-in/Big-Blue)
 
-  -[KCC Extended](https://github.com/kyleander/KCCExtended)
+   -TUFX
 
-  -TUFX
+   -Hangar Extender 
 
-  -Kerbal Konstructs
+  <img width="2560" height="1440" alt="Kerbal Space Program Screenshot 2026 08 20 - 22 16 57 84" src="https://github.com/user-attachments/assets/529ebd35-5c0f-4412-a7f1-3e3b05936367" />
 
-  -Hangar Extender 
-
-  
-<img width="1920" height="1920" alt="glennpfp" src="https://github.com/user-attachments/assets/7e2632a9-1dae-4fe1-a5e2-6fcf0dea826d" />
-<img width="2560" height="1440" alt="Kerbal Space Program Screenshot 2025 10 23 - 23 46 57 59" src="https://github.com/user-attachments/assets/0f5c1061-7a1a-466b-acc0-c61bed403099" />
-<img width="2560" height="1440" alt="Kerbal Space Program Screenshot 2025 10 23 - 23 48 24 63" src="https://github.com/user-attachments/assets/7c6e01ce-ec02-4448-aec4-98e06c2bf8b5" />
-
-# Starship Pad B Coming Soon...
-<img width="1107" height="1452" alt="block3(4)" src="https://github.com/user-attachments/assets/f919d9a9-4dd9-42b3-95f3-f93c6b64fc64" />
-<img width="1507" height="2038" alt="block3(10)" src="https://github.com/user-attachments/assets/a2a27deb-c6fa-459e-8773-64717384b039" />
