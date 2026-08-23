@@ -9,6 +9,8 @@ The Functions of The Chopsticks and SQD Would Not Be Possible Without All of The
 
 Additionally This Mod Currently Includes An Early Version of The Pad B Terrain From **Starship Ground Extensions** By; **Joep** and **BlackDinoShadow**. An Older Version of The Mod and Instructions On How to Place The Pad Can be Found [Here](https://github.com/Joepkock02/Starship-Ground-Extensions.git) and This Is Also Where Updates For The Pad Terrain Can Be Found In The Future.
 
+Credit Also Goes Out To Questin For Providing The Base Model For The Tower Used In This Mod His Other Work Can Be Found [Here](https://github.com/Quest-in)
+
 This Mod Is Designed To Be Compatible With The **Starship Expansion Project** Block 3 Vehicle Which Can Be Found [Here](https://github.com/Kari1407/Starship-Expansion-Project/releases/tag/v3.2.2)
 
 # Dependencies:
